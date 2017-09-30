@@ -155,7 +155,7 @@ public static void checkForQuit(String userInput) {
 	if (userInput.contains("QUIT")) {
 		System.out.println("No one likes a quitter");
 		System.exit(0);
-	
+	//change
 	}
   }
 }
